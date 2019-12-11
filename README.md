@@ -2,9 +2,7 @@
 
 GitLab API for Nim
 
-_Note: GitLab v3 is not supported by GitLab!
-
-As soon as I get a v4 version of the swagger definition..._
+_Note: GitLab v3 is not supported by GitLab!  As soon as I get a v4 version of the swagger definition..._
 
 ## Usage
 
